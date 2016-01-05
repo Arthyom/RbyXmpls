@@ -9,5 +9,4 @@ suma = 0
 		print ' + ',numero
 		suma += numero
 	end
-	puts ' '
-	puts suma 
+	print ' = ', suma 
